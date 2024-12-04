@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thanh Dat!
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Science at Sejong University, South Korea<br>💭 Currently learning about embedded system, machine learning, fullstack web development
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Science in South Korea<br>💭 Currently learning about embedded system, machine learning, fullstack web development.
 
 
 # 💻 Tech Stack:
